@@ -1,0 +1,13 @@
+Créer la base de votre template (base.blade.php)
+Créer un menu avec les liens vers la page d'accueil et la page de contact et l'intégrer dans la base
+Créer le modèle et la migration de la table article qui devra contenir
+-un id
+-un titre
+-un sous titre
+-un slug optionnel
+-le contenu de l'article
+-la date de création
+-la date de dernière modification
+Créer plusieurs articles de tests (avec tinker ou en vous documentant sur la classe Faker)
+Créer un controller resource pour un article
+Créer un formulaire qui permettra par la suite d'ajouter un article (rapport avec les champs de la table)
